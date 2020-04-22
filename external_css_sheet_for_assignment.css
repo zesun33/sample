@@ -16,18 +16,18 @@ nav{
 }
 h1{
 	font-family: cambria;
-	font-size: 250%
+	font-size: 250%;
 }
 h2{ 
 	background-color: rgb(219, 205, 54);
-	font-size: 150%
+	font-size: 150%;
 }
 details{
 	font-style: oblique;
 }
 summary{
 	font-style: italic;
-	font-size: 120%
+	font-size: 120%;
 }
 footer{
 	background-color: rgb(234, 72, 75);
